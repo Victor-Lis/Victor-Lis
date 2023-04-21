@@ -14,7 +14,7 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
   <img align="center" background="#fff" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg">
+  <img align="center" alt="npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
   
 </div>
 
