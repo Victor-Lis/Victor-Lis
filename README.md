@@ -1,6 +1,6 @@
 ### Olá sou Victor Lis Bronzo, tenho 16 anos e estudo programação
 
-Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvimento de Sistemas), pretendo seguir na carreira de programador como front-end, ou desenvolvedor mobile, estudo frequentemente JavaScript e alguns de seus frameworks como React ou React Native, estudo CSS, Bootstrap, também estudo relações com bancos dados, na Etec estudo bancos relacionais como SQL, porém para meus projetos pessoais utilizo firebase para armazenar os dados, também tenho conhecimento superficial de Java por conta da Etec. Claro também tenho contato com outras coisas necessárias para um programador, como GitHub e Git.
+Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvimento de Sistemas), pretendo seguir na carreira de programador como front-end, ou desenvolvedor mobile, estudo frequentemente JavaScript e alguns de seus frameworks como React ou React Native, estudo CSS, Bootstrap, também estudo relações com bancos dados, na Etec estudo bancos relacionais como SQL, porém para meus projetos pessoais utilizo firebase para armazenar os dados, também tenho conhecimento superficial de Java por conta da Etec. Claro também tenho contato com outras coisas necessárias para um programador, como GitHub e Git, e como principal forma de gerenciar pacotes uso o npm vindo do Node.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,6 +13,8 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" background="#fff" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg">
   
 </div>
 
