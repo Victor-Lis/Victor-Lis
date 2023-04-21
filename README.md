@@ -1,4 +1,4 @@
-### Olá sou Victor Lis Bronzo, tenho 16 anos e estudo programação
+[Prazer!](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Eae,+meu+nome+%C3%A9+Victor+Lis;Tenho+16+anos;Curso+Desenvolvimento+de+Sistemas;Muito+Prazer!)])
 
 Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvimento de Sistemas), pretendo seguir na carreira de programador como front-end, ou desenvolvedor mobile, estudo frequentemente JavaScript e alguns de seus frameworks como React ou React Native, estudo CSS, Bootstrap, também estudo relações com bancos dados, na Etec estudo bancos relacionais como SQL e faço ligações com eles a partir de PHP, porém para meus projetos pessoais utilizo firebase para armazenar os dados, também tenho conhecimento superficial de Java por conta da Etec. Claro também tenho contato com outras coisas necessárias para um programador, como GitHub e Git, e como principal forma de gerenciar pacotes uso o npm vindo do Node, além de tudo fiz dois cursos com certificado, de PowerBi e WordPress.
 
