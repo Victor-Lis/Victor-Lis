@@ -1,7 +1,5 @@
 ### Olá sou Victor Lis Bronzo, tenho 16 anos e estou estudo programação
 
-  #
-
 Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvimento de Sistemas), pretendo seguir na carreira de programador como front-end, ou desenvolvedor mobile, estudo frequentemente JavaScript e alguns de seus frameworks como React ou Reacy Native, também estudo relações com bancos dados, na Etec estudo bancos relacionais como SQL, porém para meus projetos pessoais utilizo firebase para armazenar os dados, também tenho conhecimento superficial de Java por conta da Etec.
 
 <div style="display: inline_block"><br>
@@ -12,7 +10,7 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-      ##
+##
 
 <div> 
   
