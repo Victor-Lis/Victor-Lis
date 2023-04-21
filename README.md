@@ -1,3 +1,2 @@
 ### Olá sou Victor Lis Bronzo, tenho 16 anos e estou estudando programação!
-
-<!-- Oi -->
+Estudo na ETEC Professor Carmine Biagio Tundisi.
