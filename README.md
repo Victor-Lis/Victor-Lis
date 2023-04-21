@@ -1,6 +1,6 @@
 ### Olá sou Victor Lis Bronzo, tenho 16 anos e estudo programação
 
-Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvimento de Sistemas), pretendo seguir na carreira de programador como front-end, ou desenvolvedor mobile, estudo frequentemente JavaScript e alguns de seus frameworks como React ou React Native, estudo CSS, Bootstrap, também estudo relações com bancos dados, na Etec estudo bancos relacionais como SQL e faço ligações com eles a partir de PHP, porém para meus projetos pessoais utilizo firebase para armazenar os dados, também tenho conhecimento superficial de Java por conta da Etec. Claro também tenho contato com outras coisas necessárias para um programador, como GitHub e Git, e como principal forma de gerenciar pacotes uso o npm vindo do Node.
+Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvimento de Sistemas), pretendo seguir na carreira de programador como front-end, ou desenvolvedor mobile, estudo frequentemente JavaScript e alguns de seus frameworks como React ou React Native, estudo CSS, Bootstrap, também estudo relações com bancos dados, na Etec estudo bancos relacionais como SQL e faço ligações com eles a partir de PHP, porém para meus projetos pessoais utilizo firebase para armazenar os dados, também tenho conhecimento superficial de Java por conta da Etec. Claro também tenho contato com outras coisas necessárias para um programador, como GitHub e Git, e como principal forma de gerenciar pacotes uso o npm vindo do Node, além de tudo fiz dois cursos com certificado, de PowerBi e WordPress.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,13 +10,13 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
   <img align="center" alt="Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-plain.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" background="#fff" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="WordPress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
   
 </div>
 
