@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=52a447&size=25&left=true&width=1000&lines=Eae,+meu+nome+%C3%A9+Victor+Lis;Tenho+16+anos;Curso+Desenvolvimento+de+Sistemas;Muito+Prazer!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=52a447&size=25&left=true&width=1000&lines=Eae,+meu+nome+%C3%A9+Victor+Lis;Tenho+(new Date().getFullYear() - 2007)+anos;Curso+Desenvolvimento+de+Sistemas;Muito+Prazer!)
 
 Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvimento de Sistemas), pretendo seguir na carreira de programador como front-end, ou desenvolvedor mobile, estudo frequentemente JavaScript e alguns de seus frameworks como React, React Native ou Node, estudo para fazer relações com dados o Firebase e ou o Prisma Schema.
 
