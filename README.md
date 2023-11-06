@@ -28,9 +28,6 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
   
 </div>
 
-<br>
-
-![](https://github-profile-trophy.vercel.app/?username=Vinicius-B-Leite&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <br>
 
@@ -42,3 +39,7 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
     <a href="https://learn.microsoft.com/pt-br/users/victorlis/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Learn-8100bd?style=for-the-badge&logo=microsoft&logoColor=white"></a> 
   
 </div>
+
+<br>
+
+![](https://github-profile-trophy.vercel.app/?username=Vinicius-B-Leite&theme=radical&no-frame=true&no-bg=true&margin-w=4)
