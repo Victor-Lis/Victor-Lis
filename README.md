@@ -8,10 +8,6 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
 
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=Victor-Lis&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-##
-
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!-- <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
@@ -29,9 +25,11 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
   <img align="center" alt="WordPress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
   
-  
 </div>
 
+##
+
+![](https://github-profile-trophy.vercel.app/?username=Victor-Lis&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <br>
 
