@@ -8,6 +8,10 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
 
 ##
 
+![](https://github-profile-trophy.vercel.app/?username=Victor-Lis&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+##
+
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!-- <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
