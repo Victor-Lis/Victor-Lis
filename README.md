@@ -30,7 +30,6 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
 
 <br>
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vinicius-B-Leite&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <br>
