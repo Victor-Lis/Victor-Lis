@@ -6,7 +6,9 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=compact&hide_border=false&title_color=3EBDFF&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117" />
 </div>
 
-##
+<br>
+
+![](https://github-profile-trophy.vercel.app/?username=Vinicius-B-Leite&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -39,7 +41,3 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
     <a href="https://learn.microsoft.com/pt-br/users/victorlis/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Learn-8100bd?style=for-the-badge&logo=microsoft&logoColor=white"></a> 
   
 </div>
-
-<br>
-
-![](https://github-profile-trophy.vercel.app/?username=Vinicius-B-Leite&theme=radical&no-frame=true&no-bg=true&margin-w=4)
