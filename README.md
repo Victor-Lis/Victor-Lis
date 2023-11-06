@@ -31,6 +31,8 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
 
 ![](https://github-profile-trophy.vercel.app/?username=Victor-Lis&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+##
+
 <div> 
   
   <a href="https://wa.me/5511941613234?text=Olá%20Victor!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%52a447?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
