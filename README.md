@@ -9,9 +9,6 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
   <img width="50%" height="195px" src="https://streak-stats.demolab.com?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117"/>
 </div>
 
-<br>
-<br>
-
 <div align="center" style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!-- <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
