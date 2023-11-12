@@ -2,8 +2,6 @@
 
 Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvimento de Sistemas), pretendo seguir na carreira de programador como front-end, ou desenvolvedor mobile, estudo frequentemente JavaScript e alguns de seus frameworks como React, React Native ou Node, estudo para fazer relações com dados o Firebase e ou o Prisma Schema. Além de tudo isso uma coisa que estou interessado nos últimos tempos para "projetos diferentes" ou como hobby é mexer com Arduino.
 
-<br>
-
 <div align="center"> 
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=donut&hide_border=false&title_color=3EBDFF&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117&langs_count=17" />
   <img height="195px" src="https://streak-stats.demolab.com?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117"/>
