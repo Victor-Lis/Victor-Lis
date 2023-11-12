@@ -29,15 +29,13 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
   
 </div>
 
-
+##
 
 <div align="center">
 
   ![](https://github-profile-trophy.vercel.app/?username=Victor-Lis&theme=radical&no-bg=true&margin-w=4)
   
 </div>
-
-##
 
 <div align="center"> 
   
