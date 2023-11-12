@@ -7,7 +7,7 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
 <div align="center"> 
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=donut&hide_border=false&title_color=3EBDFF&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117&langs_count=17" />
   <br>
-  <img height="195px" align="left" src="https://github-readme-stats.vercel.app/api?username=Victor-Lis&count_private=true&include_all_commits=true" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Victor-Lis&count_private=true&include_all_commits=true" />
   <br>
 <!--   <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=donut&hide_border=false&title_color=52a447&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117&langs_count=17" /> -->
   <img height="195px" src="https://streak-stats.demolab.com?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117"/>
