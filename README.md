@@ -6,7 +6,7 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
 
 <div align="center"> 
   <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=donut&hide_border=false&title_color=3EBDFF&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117&langs_count=17" />
-  <img width="35%" height="295px" src="https://streak-stats.demolab.com?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117"/>
+  <img width="35%" height="150px" src="https://streak-stats.demolab.com?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117"/>
 </div>
 
 <br>
