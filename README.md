@@ -35,7 +35,7 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
 
 ##
 
-<div> 
+<div style="display: inline_block"> 
   
   <a href="https://wa.me/5511941613234?text=Olá%20Victor!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%52a447?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href = "mailto:victorlisbronzo1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF495F?style=for-the-badge&logo=gmail&logoColor=white"></a>
