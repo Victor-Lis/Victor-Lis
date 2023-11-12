@@ -1,12 +1,12 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=52a447&size=30px&width=1000left=true&lines=Eae,+meu+nome+%C3%A9+Victor+Lis;Tenho+16+anos;Curso+Desenvolvimento+de+Sistemas;Muito+Prazer!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3EBDFF&size=30px&width=1000left=true&lines=Eae,+meu+nome+%C3%A9+Victor+Lis;Tenho+16+anos;Curso+Desenvolvimento+de+Sistemas;Muito+Prazer!)
 
 Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvimento de Sistemas), pretendo seguir na carreira de programador como front-end, ou desenvolvedor mobile, estudo frequentemente JavaScript e alguns de seus frameworks como React, React Native ou Node, estudo para fazer relações com dados o Firebase e ou o Prisma Schema. Além de tudo isso uma coisa que estou interessado nos últimos tempos para "projetos diferentes" ou como hobby é mexer com Arduino.
 
 <br>
 
 <div align="center"> 
-<!--   <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=donut&hide_border=false&title_color=3EBDFF&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117&langs_count=17" /> -->
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=donut&hide_border=false&title_color=52a447&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117&langs_count=17" />
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=donut&hide_border=false&title_color=3EBDFF&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117&langs_count=17" />
+<!--   <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=donut&hide_border=false&title_color=52a447&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117&langs_count=17" /> -->
   <img width="50%" height="195px" src="https://streak-stats.demolab.com?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117"/>
 </div>
 
