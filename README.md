@@ -19,7 +19,7 @@ Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvime
   <img align="center" alt="Node.js" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Arduino" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Firebase" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Prisma" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg">
+  <img align="center" alt="Prisma" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg">
   <img align="center" alt="Azure" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
   <img align="center" alt="npm" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" background="#fff" alt="GitHub" height="35" width="45" src="https://github.com/feathericons/feather/blob/main/icons/github.svg">
