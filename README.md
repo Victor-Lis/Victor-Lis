@@ -49,7 +49,7 @@ Estudo frequentemente [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/
   
   <a href="https://wa.me/5511941613234?text=Olá%20Victor!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%52a447?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href = "mailto:victorlisbronzo1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF495F?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/victor-lis-bronzo-b39310273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/victor-lis-bronzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
     <a href="https://learn.microsoft.com/pt-br/users/victorlis/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Learn-8100bd?style=for-the-badge&logo=microsoft&logoColor=white"></a> 
   
 </div>
