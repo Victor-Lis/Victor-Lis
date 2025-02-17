@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3EBDFF&size=30px&width=1000left=true&lines=Eae,+meu+nome+%C3%A9+Victor+Lis.;Tenho+17+anos.;Curso+Desenvolvimento+de+Sistemas.;Muito+Prazer!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3EBDFF&size=30px&width=1000left=true&lines=Eae,+meu+nome+%C3%A9+Victor+Lis.;Tenho+18+anos.;Curso+Desenvolvimento+de+Sistemas.;Muito+Prazer!)
 
 Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvimento de Sistemas), pretendo seguir na carreira de programador Front-End, mas também tenho estudado Back-End para ter noção de como funciona uma aplicação completa. 
 
