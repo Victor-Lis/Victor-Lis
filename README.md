@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a288e3&size=30px&width=1000left=true&lines=Eae,+meu+nome+%C3%A9+Victor+Lis;Tenho+18+anos;Faço+Desenvolvimento+de+Software+Multiplataforma;Muito+Prazer!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5A2FC6&size=30px&width=1000left=true&lines=Eae,+meu+nome+%C3%A9+Victor+Lis;Tenho+18+anos;Faço+Desenvolvimento+de+Software+Multiplataforma;Muito+Prazer!)
 
 Me formei na Etec Professor Carmine Biagio Tundisi no curso de DS (Desenvolvimento de Sistemas) e atualmente estou cursando a FATEC Atibaia. Meu foco principal é desenvolvimento web com [React](https://react.dev/) e [Next.js](https://nextjs.org/).
 
@@ -9,7 +9,7 @@ Como hobby, gosto de trabalhar com [Arduino](https://docs.arduino.cc/), que tamb
 <br>
 
 <div align="center"> 
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=donut&hide_border=false&title_color=3EBDFF&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117&langs_count=10&&hide=HTML,CSS" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=donut&hide_border=false&title_color=5A2FC6&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117&langs_count=10&&hide=HTML,CSS" />
   <img height="195px" src="https://streak-stats.demolab.com?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&color=3EBDFF&ring=3EBDFF&fire=3EBDFF&currStreakLabel=3EBDFF"/>
 </div>
 
