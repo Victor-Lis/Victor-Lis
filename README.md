@@ -10,7 +10,7 @@ Como hobby, gosto de trabalhar com [Arduino](https://docs.arduino.cc/), que tamb
 
 <div align="center"> 
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=donut&hide_border=false&title_color=f92672&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117&langs_count=10&&hide=HTML,CSS" />
-  <img height="195px" src="http://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&color=f92672&ring=f92672&fire=f92672&currStreakLabel=FFF"/>
+  <img height="195px" src="http://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&color=f92672&ring=f92672&fire=f92672&currStreakLabel=f92672"/>
 </div>
 
 <br>
