@@ -1,8 +1,10 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3EBDFF&size=30px&width=1000left=true&lines=Eae,+meu+nome+%C3%A9+Victor+Lis.;Tenho+18+anos.;Curso+Desenvolvimento+de+Sistemas.;Muito+Prazer!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a288e3&size=30px&width=1000left=true&lines=Eae,+meu+nome+%C3%A9+Victor+Lis;Tenho+18+anos;Faço+Desenvolvimento+de+Software+Multiplataforma;Muito+Prazer!)
 
-Estudo na Etec Professor Carmine Biagio Tundisi e estou cursando DS(Desenvolvimento de Sistemas), pretendo seguir na carreira de programador Front-End, mas também tenho estudado Back-End para ter noção de como funciona uma aplicação completa. 
+Me formei na Etec Professor Carmine Biagio Tundisi no curso de DS (Desenvolvimento de Sistemas) e atualmente estou cursando a FATEC Atibaia. Meu foco principal é desenvolvimento web com [React](https://react.dev/) e [Next.js](https://nextjs.org/).
 
-Estudo frequentemente [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)/[TypeScript](https://www.typescriptlang.org/) e algumas de suas libs ou frameworks como [React](https://react.dev/), [Next](https://nextjs.org/), [React Native](https://reactnative.dev/) ou [Node](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs), uso para fazer relações com dados com frequência as libs [Firebase](https://firebase.google.com/?hl=pt) e [Supabase](https://supabase.com/), também tenho usado alguns ORMs como [Prisma Schema](https://www.prisma.io/docs/orm/prisma-schema) e [Drizzle](https://orm.drizzle.team/) para manipular bancos de dados em especial [PostgreSQL](https://www.postgresql.org/), mas alguns [MySQL](https://www.mysql.com/) também. Tenho como um hobby mexer com [Arduino](https://docs.arduino.cc/), já que também é o centro do [meu TCC](https://www.linkedin.com/posts/victor-lis-bronzo_mais-uma-etapa-do-meu-tcc-bom-dia-rede-activity-7243605015930515458-R81F). 
+Tenho estudado e trabalhado constantemente com [React](https://react.dev/) e [Next.js](https://nextjs.org/), buscando aprofundar meus conhecimentos em desenvolvimento web moderno e otimizado. Para lidar com dados, utilizo bancos como [PostgreSQL](https://www.postgresql.org/) e [MySQL](https://www.mysql.com/), frequentemente utilizando ORMs como [Prisma](https://www.prisma.io/docs/orm/prisma-schema) e [Drizzle](https://orm.drizzle.team/). Além disso, também exploro bancos NoSQL como [Firebase](https://firebase.google.com/?hl=pt), ou sua alternativa relacional o [Supabase](https://supabase.com/). Ainda tenho experiência com outras tecnologias como [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)/[TypeScript](https://www.typescriptlang.org/), [React Native](https://reactnative.dev/) e [Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs).
+
+Como hobby, gosto de trabalhar com [Arduino](https://docs.arduino.cc/), que também é o centro do [meu TCC](https://www.linkedin.com/posts/victor-lis-bronzo_mais-uma-etapa-do-meu-tcc-bom-dia-rede-activity-7243605015930515458-R81F).
 
 <br>
 
@@ -50,6 +52,6 @@ Estudo frequentemente [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/
   <a href="https://wa.me/5511941613234?text=Olá%20Victor!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%52a447?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href = "mailto:victorlisbronzo1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF495F?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/victor-lis-bronzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-    <a href="https://learn.microsoft.com/pt-br/users/victorlis/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Learn-8100bd?style=for-the-badge&logo=microsoft&logoColor=white"></a> 
+  <a href="https://learn.microsoft.com/pt-br/users/victorlis/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Learn-8100bd?style=for-the-badge&logo=microsoft&logoColor=white"></a> 
   
 </div>
