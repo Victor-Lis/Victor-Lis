@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f92672&size=30px&width=1000left=true&lines=Eae,+meu+nome+%C3%A9+Victor+Lis;Tenho+18+anos;Faço+Desenvolvimento+de+Software+Multiplataforma;Muito+Prazer!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f92672&size=30px&width=1000left=true&lines=Olá,+meu+nome+%C3%A9+Victor+Lis;Tenho+18+anos;Faço+Desenvolvimento+de+Software+Multiplataforma;Muito+Prazer!)
 
 Me formei na Etec Professor Carmine Biagio Tundisi no curso de [DS](https://www.cps.sp.gov.br/cursos-etec/desenvolvimento-de-sistemas/) e atualmente estou cursando [DSM](https://www.cps.sp.gov.br/cursos-fatec/desenvolvimento-de-software-multiplataforma/) na FATEC Atibaia. Meu foco principal é desenvolvimento web com [React](https://react.dev/) e [Next.js](https://nextjs.org/).
 
