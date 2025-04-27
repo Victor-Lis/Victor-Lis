@@ -9,9 +9,8 @@ Como hobby, gosto de trabalhar com [Arduino](https://docs.arduino.cc/), que tamb
 <br>
 
 <div align="center"> 
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=donut&hide_border=false&title_color=34df8b&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=2a2c41&langs_count=10&&hide=HTML,CSS" />
-  <img height="195px" src="https://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=2a2c41&color=f92672&ring=34df8b&fire=34df8b&currStreakLabel=34df8b"/>
-  <img height="195px" src="https://victor-lis.vercel.app/api/github?nome1=Victor&nome2=Lis&nome3=Bronzo&idade=18%20anos&titulo=Analista%20e%20Desenvolvedor%20de%20Sistemas&profissao=Desenvolvedor%20Web/Full-Stack&descricao=Programador,%20apaixonado%20por%20tecnologia%20e%20inova%C3%A7%C3%A3o.&github-text=Victor-Lis&github-link=https://github.com/Victor-Lis&linkedin-text=Victor%20Lis%20Bronzo&linkedin-link=https://www.linkedin.com/in/victor-lis-bronzo/&portfolio-text=Portf%C3%B3lio&portfolio-link=https://victor-lis.vercel.app&cv-text=Curr%C3%ADculo&cv-link=https://victor-lis.vercel.app/Profile/Victor%20Lis%20Bronzo,%20Desenvolvedor%20Front-End%20e%20Web.pdf&foto=https://avatars.githubusercontent.com/u/109773129?v=4"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=donut&hide_border=false&title_color=34df8b&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117&langs_count=10&&hide=HTML,CSS" />
+  <img height="195px" src="https://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&color=f92672&ring=34df8b&fire=34df8b&currStreakLabel=34df8b"/>
 </div>
 
 <br>
