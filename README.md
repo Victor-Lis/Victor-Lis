@@ -63,7 +63,7 @@ Busco constantemente aprofundar meus conhecimentos para criar aplicações otimi
 ### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Victor-Lis&show_icons=true&theme=github_dark&locale=pt-br&hide_border=true" />
+<!--   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Victor-Lis&show_icons=true&theme=github_dark&locale=pt-br&hide_border=true" /> -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=compact&theme=github_dark&locale=pt-br&hide_border=true" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&hide_border=true&ring=34df8b&fire=34df8b&currStreakLabel=34df8b"/>
 </p>
