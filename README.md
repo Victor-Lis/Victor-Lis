@@ -62,11 +62,24 @@ Busco constantemente aprofundar meus conhecimentos para criar aplicações otimi
 
 ### 📊 Estatísticas GitHub
 
-<p align="center">
-<!--   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Victor-Lis&show_icons=true&theme=github_dark&locale=pt-br&hide_border=true" /> -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=compact&theme=github_dark&locale=pt-br&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&hide_border=true&ring=34df8b&fire=34df8b&currStreakLabel=34df8b"/>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=compact&theme=github_dark&locale=pt-br&hide_border=true" alt="Top Languages" />
+    </td>
+    <td>
+      <img width="350" src="https://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&hide_border=true&ring=34df8b&fire=34df8b&currStreakLabel=34df8b" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/victor-lis/victor-lis/output/snake.svg" alt="Snake animation" style="max-width: 700px; margin: 20px 0;" />
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=victor-lis.victor-lis&" alt="Visitor Badge" />
+
+</div>
 
 ---
 
@@ -88,4 +101,6 @@ Busco constantemente aprofundar meus conhecimentos para criar aplicações otimi
 
 ---
 
-> ✨ _“Quem não é visto, não é lembrado.”_
+> ✨ “Quem não é visto, não é lembrado.”
+
+> 🗣 "Quer ver mais sobre mim? Olhe meu LinkedIn!"
