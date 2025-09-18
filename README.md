@@ -64,12 +64,12 @@ Busco constantemente aprofundar meus conhecimentos para criar aplicações otimi
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
       <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=compact&theme=github_dark&locale=pt-br&hide_border=true" alt="Top Languages" />
     </td>
-    <td>
+    <td style="border: none;">
       <img width="350" src="https://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&hide_border=true&ring=34df8b&fire=34df8b&currStreakLabel=34df8b" alt="GitHub Streak" />
     </td>
   </tr>
