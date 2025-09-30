@@ -2,6 +2,10 @@
 
 <p align="center">
   <img src="https://victor-lis.vercel.app/api/github/card?title=🚀%20Desenvolvedor%20Web%20|%20JS%20TS&profession=Full%20Stack%20Developer&description=Transformando%20ideias%20em%20realidade%20com%20código.&github=Victor-Lis&name1=Victor&name2=Lis&name3=Bronzo&age=18%20anos&linkedin=victor-lis-bronzo&portfolio=https://victor-lis.vercel.app&foreground=0D1117" alt="Victor Lis Bronzo" />
+  <br>
+  <a href="https://github.com/Victor-Lis/Portfolio/blob/master/docs/CARD.md" target="_blank" style="opacity:0.7; font-size:12px;">
+    <img src="https://img.shields.io/badge/Faça%20seu%20próprio%20card%20aqui!-181717?style=flat&logo=github&logoColor=white" alt="GitHub Card Repo" />
+  </a>
 </p>
 
 ---
