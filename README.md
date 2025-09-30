@@ -75,7 +75,7 @@ Busco constantemente aprofundar meus conhecimentos para criar aplicações otimi
   </tr>
 </table>
 
-![GitHub Card](https://victor-lis.vercel.app/api/github/card?title=Analista%20e%20Desenvolvedor%20de%20Sistemas&profession=Full%20Stack%20Developer&description=Apaixonado%20por%20soluções%20criativas!&github=Victor-Lis&name1=Victor&name2=Lis&name3=Bronzo&age=18%20anos&linkedin=victor-lis-bronzo&portfolio=https://victor-lis.vercel.app)
+![GitHub Card](https://victor-lis.vercel.app/api/github/card?title=Analista%20e%20Desenvolvedor%20de%20Sistemas&profession=Full%20Stack%20Developer&description=Apaixonado%20por%20soluções%20criativas!&github=Victor-Lis&name1=Victor&name2=Lis&name3=Bronzo&age=18%20anos&linkedin=victor-lis-bronzo&portfolio=https://victor-lis.vercel.app&foreground=0D1117)
 
 <img src="https://raw.githubusercontent.com/victor-lis/victor-lis/output/snake.svg" alt="Snake animation" style="max-width: 700px; margin: 20px 0;" />
 
