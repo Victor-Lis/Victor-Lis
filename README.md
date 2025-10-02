@@ -1,9 +1,11 @@
-<h1 align="center">👨‍💻 Victor Lis Bronzo</h1>
+<!-- <h1 align="center">👨‍💻 Victor Lis Bronzo</h1> -->
 
 <p align="center">
-  <strong>🚀 Desenvolvedor Web | Foco em React & Next.js</strong><br>
-  <em>Transformando ideias em realidade com código e criatividade.</em><br>
-  🇧🇷 Atibaia, SP
+  <img src="https://victor-lis.vercel.app/api/github/card?title=%F0%9F%9A%80%20Desenvolvedor%20Web&profession=TypeScript,%20React.js,%20Next.js,%20Node.js,%20Databases&description=Transformando%20ideias%20em%20realidade%20com%20c%C3%B3digo.&github=Victor-Lis&name1=Victor&name2=Lis&name3=Bronzo&age=18%20anos&linkedin=victor-lis-bronzo&portfolio=https://victor-lis.vercel.app&photo=https://victor-lis.vercel.app/Profile/myself.jpg&background=0D1117" alt="Victor Lis Bronzo" />
+  <br>
+  <a href="https://github.com/Victor-Lis/Portfolio/blob/master/docs/CARD.md" target="_blank" style="opacity:0.7; font-size:12px;">
+    <img src="https://img.shields.io/badge/Faça%20seu%20próprio%20card%20aqui!-181717?style=flat&logo=github&logoColor=white" alt="GitHub Card Repo" />
+  </a>
 </p>
 
 ---
@@ -65,11 +67,24 @@ Busco constantemente aprofundar meus conhecimentos para criar aplicações otimi
 
 ### 📊 Estatísticas GitHub
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Victor-Lis&show_icons=true&theme=github_dark&locale=pt-br&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=compact&theme=github_dark&locale=pt-br&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&hide_border=true&ring=34df8b&fire=34df8b&currStreakLabel=34df8b"/>
-</p>
+<div align="center">
+
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Lis&layout=compact&theme=github_dark&locale=pt-br&hide_border=true&langs_count=20" alt="Top Languages" />
+    </td>
+    <td style="border: none;">
+      <img width="350" src="https://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&hide_border=true&ring=34df8b&fire=34df8b&currStreakLabel=34df8b" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/victor-lis/victor-lis/output/snake.svg" alt="Snake animation" style="max-width: 700px; margin: 20px 0;" />
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=victor-lis.victor-lis&" alt="Visitor Badge" />
+
+</div>
 
 ---
 
@@ -117,4 +132,6 @@ Minha jornada vai além do código! 🚀 Confira alguns dos eventos que particip
 
 ---
 
-> ✨ _“Quem não é visto, não é lembrado.”_
+> ✨ “Quem não é visto, não é lembrado.”
+
+> 🗣 "Quer ver mais sobre mim? Olhe meu LinkedIn!"
