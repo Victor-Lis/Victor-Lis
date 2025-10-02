@@ -9,6 +9,7 @@
 ---
 
 ### 🧭 Sobre Mim
+
 Formado em Desenvolvimento de Sistemas pela Etec e atualmente cursando Análise e Desenvolvimento de Sistemas no IFSP. Sou um desenvolvedor apaixonado por tecnologia, com foco principal no ecossistema web moderno utilizando **React** e **Next.js**, normalmente com **TypeScript**. Para o back-end, costumo utilizar **Node.js**.
 
 Busco constantemente aprofundar meus conhecimentos para criar aplicações otimizadas e com ótima experiência de usuário. Tenho experiência com bancos de dados **SQL** e **NoSQL**, e gosto de explorar novas ferramentas que possam aprimorar meu trabalho. Como hobby, me aventuro no mundo do hardware com **Arduino**, que inclusive foi o tema do meu [TCC](https://www.linkedin.com/posts/victor-lis-bronzo_mais-uma-etapa-do-meu-tcc-bom-dia-rede-activity-7243605015930515458-R81F) na **Etec**.
@@ -26,7 +27,9 @@ Busco constantemente aprofundar meus conhecimentos para criar aplicações otimi
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
 <!-- ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) -->
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat&logo=shadcn/ui&logoColor=white)
 
@@ -75,6 +78,32 @@ Busco constantemente aprofundar meus conhecimentos para criar aplicações otimi
 - 💡 **Eco-Play** – Meu projeto de conclusão de curso na Etec utilizando embarcados para resolver problemas da comunidade. (Documentado no meu linkedin)
 - 🚀 **CodeUp** – Plataforma de aprendizado de programação com foco em projetos práticos. Tecnologias: React, Node.js, PostgreSQL.
 - 🛠️ **Mercado Pago API** – Template de integração com a API do Mercado Pago para processamento de pagamentos. Tecnologias: Node.js e Fastify.
+
+---
+
+---
+
+### 📅 Eventos
+Minha jornada vai além do código! 🚀 Confira alguns dos eventos que participei. Clique nos cards para saber mais sobre cada experiência. 👇
+
+<div align="center" style="display: flex; justify-content: start; flex-wrap: wrap; gap: 16px;">
+  <a href="https://www.linkedin.com/posts/victor-lis-bronzo_que-experi%C3%AAncia-incr%C3%ADvel-foi-o-aws-summit-activity-7362845664386367488-BMwH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELJq10BcksiHQP1HQtQTWN0UoYK65bMkDQ" target="_blank">
+    <img src="https://victor-lis.vercel.app/api/github/event?photo=https://victor-lis.vercel.app/events/aws-summit-2025.jpg&name=AWS%20Summit&description=Cloud%20e%20networking&date=ago/2025" alt="Imagem do evento AWS Summit" width="140"/>
+  </a>
+  <a href="https://www.linkedin.com/posts/victor-lis-bronzo_interifs-bom-dia-rede-hoje-venho-compartilhar-activity-7365382384789213184-QeOq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELJq10BcksiHQP1HQtQTWN0UoYK65bMkDQ" target="_blank">
+    <img src="https://victor-lis.vercel.app/api/github/event?photo=https://victor-lis.vercel.app/events/interifs-2025.jpg&name=InterIF's&description=Competição%20e%20networking&date=jun/2025" alt="Imagem do evento InterIF's" width="140"/>
+  </a>
+  <a href="https://www.linkedin.com/posts/victor-lis-bronzo_ol%C3%A1-rede-bom-dia-hoje-vim-compartilhar-activity-7322243130546618368-WdBi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELJq10BcksiHQP1HQtQTWN0UoYK65bMkDQ" target="_blank">
+    <img src="https://victor-lis.vercel.app/api/github/event?photo=https://victor-lis.vercel.app/events/startup-day-2025.jpg&name=Startup%20Day&description=Inovação%20e%20tecnologia&date=mai/2025" alt="Imagem do evento do Sebrae" width="140"/>
+  </a>
+  <a href="https://www.linkedin.com/posts/victor-lis-bronzo_sqltuesday-activity-7276219882394783745-8V-P?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELJq10BcksiHQP1HQtQTWN0UoYK65bMkDQ" target="_blank">
+    <img src="https://victor-lis.vercel.app/api/github/event?photo=https://victor-lis.vercel.app/events/microsoft-reactor-2024.jpg&name=SQL%20Saturday&description=DB's%20e%20networking&date=dez/2024" alt="Imagem do evento SQL Saturday" width="140"/>
+  </a>
+  <a href="https://www.linkedin.com/posts/victor-lis-bronzo_nota-m%C3%A1xima-no-tcceco-play-boa-tarde-activity-7268707865601744898--VMD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELJq10BcksiHQP1HQtQTWN0UoYK65bMkDQ
+  &date=nov/2024" target="_blank">
+    <img src="https://victor-lis.vercel.app/api/github/event?photo=https://victor-lis.vercel.app/events/eco-play-2024.jpg&name=Eco%20Play&description=Nota%20Máxima%20no%20TCC&date=nov/2024" alt="Imagem do evento Eco Play" width="140"/>
+  </a>
+</div>
 
 ---
 
