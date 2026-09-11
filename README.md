@@ -113,16 +113,6 @@ Busco constantemente aprofundar meus conhecimentos para criar aplicações otimi
 
 ---
 
-### 📦 Projetos em Destaque
-
-- 💡 **Eco-Play** – Meu projeto de conclusão de curso na Etec utilizando embarcados para resolver problemas da comunidade. (Documentado no meu linkedin)
-- 🛠️ **Git Assets** – Plataforma de assets SVG para devs enriquecerem seus README's.
-- 🚀 **CodeUp** – Plataforma de aprendizado de programação com foco em projetos práticos. Tecnologias: React, Node.js, PostgreSQL.
-
----
-
----
-
 ### 📅 Eventos
 
 Minha jornada vai além do código! 🚀 Confira alguns dos eventos que participei. Clique nos cards para saber mais sobre cada experiência. 👇
